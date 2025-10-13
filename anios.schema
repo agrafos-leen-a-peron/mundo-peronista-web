@@ -1,0 +1,12 @@
+  * Anios
+
+    PK ID
+
+    T Anio
+
+  * NumerosPorAnio
+
+    PK ID
+
+    T Anio!
+    T Numero!
